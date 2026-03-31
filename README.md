@@ -38,7 +38,7 @@ Profiles were created or updated on GitHub,LinkedIn,Kaggle,and HackerRank.
 
 ##### **HackerRank Profile Link:**
 
-https://www.hackerrank.com/profile/akshat\_25bai1071
+https://www.hackerrank.com/profile/akshat_25bai1071
 
 
 
